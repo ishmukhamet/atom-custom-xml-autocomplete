@@ -1,6 +1,6 @@
 {
   "name": "lexema-xml-autocomplete",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Custom XML element and attribute autocompletion for Lexema",
   "main": "./lib/main",
   "license": "MIT",
